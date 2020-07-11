@@ -4,7 +4,7 @@ I'm Şuayb, a computer scientist who loves building heavy mathematical things. P
 
 🔭 Here's a few technologies I've been working with, recently: 
 
-Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node.js | SQL, NoSQL (Firebase) | Cryptography | Html / Css / Js
+Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node.js | SQL, NoSQL (Firebase)
 
 🌱 I’m currently learning ...
 👯 I’m looking to collaborate on ...
