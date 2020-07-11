@@ -14,6 +14,7 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
  - Python, Keras
  - Natural Language Processing
  - Java, C++, Node.js
+ 
 📫 How to reach me:
 
 [Home](https://github.com/suayb25) | [LinkedIn](https://tr.linkedin.com/in/%C5%9Fuayb-talha-%C3%B6z%C3%A7elik-38b475164)
