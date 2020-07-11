@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **suayb25/suayb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Şuayb, a computer scientist who loves building heavy mathematical things. Previously I developed many web based applications and now I deliver solutions in deep learning, machine learning and other mathematical scientific things!
@@ -18,4 +17,3 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
 [Home](https://github.com/suayb25) | [LinkedIn](https://tr.linkedin.com/in/%C5%9Fuayb-talha-%C3%B6z%C3%A7elik-38b475164)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
