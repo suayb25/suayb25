@@ -10,9 +10,9 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
 👯 I’m looking to collaborate on ...
 
 💬 Ask me about:
- - Python, Keras
- - Natural Language Processing
- - Java, C++, Node.js
+ - Python, Keras, Tensorflow
+ - Natural Language Processing, Computer Vision
+ - Java, C++, Angular
  
 📫 How to reach me:
 
