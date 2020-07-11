@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Şuayb, a computer scientist who loves building heavy mathematical things. Previously I developed many web based applications and now I deliver solutions in deep learning, machine learning and other mathematical scientific things!
+I'm Şuayb, a computer scientist who loves building deep learning things. Previously I developed many web based applications and now I deliver solutions in deep learning, machine learning and other artifical intelligence things!
 
 🔭 Here's a few technologies I've been working with, recently: 
 
