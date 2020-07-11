@@ -11,7 +11,8 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
 
 💬 Ask me about:
  - Python, Keras, Tensorflow
- - Natural Language Processing, Computer Vision
+ - Computer Vision
+ - Natural Language Processing
  - Java, C++, Angular
  
 📫 How to reach me:
