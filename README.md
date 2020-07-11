@@ -6,8 +6,8 @@ I'm Şuayb, a computer scientist who loves building heavy mathematical things. P
 
 Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node.js | SQL, NoSQL (Firebase)
 
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
+👯 I’m currently working on:
+ [Focusing Neuron Model](https://github.com/btekgit/FocusingNeuron-Keras) 
 
 💬 Ask me about:
  - Python, Keras, Tensorflow
