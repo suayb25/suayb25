@@ -22,4 +22,4 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
 
 ![Suayb's github stats](https://github-readme-stats.vercel.app/api?username=suayb25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Visitor Count](https : //profile-counter.glitch.me/{suayb25}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{suayb25}/count.svg)
