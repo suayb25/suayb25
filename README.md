@@ -21,3 +21,5 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
 [Home](https://github.com/suayb25) | [LinkedIn](https://tr.linkedin.com/in/%C5%9Fuayb-talha-%C3%B6z%C3%A7elik-38b475164)
 
 ![Suayb's github stats](https://github-readme-stats.vercel.app/api?username=suayb25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![visitor counts](https://your.application.path/?username=suayb25)
