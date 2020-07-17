@@ -24,4 +24,4 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
 
 ![](https://komarev.com/ghpvc/?username=suayb25)
 
-![](https://www.vectorlogo.zone/logos/python/python-icon.svg)  ![](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) ![](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)
+![](https://www.vectorlogo.zone/logos/python/python-icon.svg)  ![](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) ![](https://www.vectorlogo.zone/logos/angular/angular-icon.svg) ![](https://www.vectorlogo.zone/logos/java/java-icon.svg)
