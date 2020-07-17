@@ -23,3 +23,5 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
 ![Suayb's github stats](https://github-readme-stats.vercel.app/api?username=suayb25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![](https://komarev.com/ghpvc/?username=suayb25)
+
+!(https://www.vectorlogo.zone/logos/python/python-ar21.svg)
