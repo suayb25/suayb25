@@ -4,7 +4,7 @@ I'm Şuayb, a computer scientist who loves building deep learning things. Previo
 
 🔭 Here's a few technologies I've been working with, recently: 
 
-Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node.js | SQL, NoSQL (Firebase)
+Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++, Node.js | SQL, NoSQL (Firebase)
 
 👯 I’m currently working on:
 
@@ -24,4 +24,4 @@ Deep Learning | NLP | Python, Keras | Computer Vision | Angular | Java, C++,Node
 
 ![](https://komarev.com/ghpvc/?username=suayb25)
 
-![](https://www.vectorlogo.zone/logos/python/python-icon.svg)  ![](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) ![](https://www.vectorlogo.zone/logos/angular/angular-icon.svg) ![](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![](https://www.vectorlogo.zone/logos/python/python-icon.svg)  ![](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) ![](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)  ![](https://www.vectorlogo.zone/logos/java/java-icon.svg)  ![](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
